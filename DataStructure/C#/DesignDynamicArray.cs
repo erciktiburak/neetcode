@@ -12,7 +12,7 @@ public class DynamicArray {
     }
 
     public int Get(int i) {
-        return this.array[i
+        return this.array[i];
     }
 
     public void Set(int i, int n) {
